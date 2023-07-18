@@ -1,1 +1,1 @@
-# eslint-boilerplate
+# eslint-template
