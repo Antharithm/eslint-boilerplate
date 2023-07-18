@@ -1,18 +1,18 @@
-let didShowMessege = false;
+// let didShowMessege = false;
 
-function showMessege() {
+function showLikeMessege() {
   const messege = "i like programs";
   for (let i = 0; i < 5; i++) {
     console.log(messege);
   }
 }
 
-function showLove() {
+function showLoveMessege() {
   const messege = "i love programs";
   for (let i = 0; i < 5; i++) {
     console.log(messege);
   }
 }
 
-showMessege();
-showLove();
+showLikeMessege();
+showLoveMessege();
